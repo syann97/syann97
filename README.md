@@ -2,7 +2,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shallom753)](https://solved.ac/shallom753/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=shallom753)
-![syann97's GitHub stats](https://github-readme-stats.vercel.app/api?username=syann97&show_icons=true&theme=radical)
+[![syann97's GitHub stats](https://github-readme-stats.vercel.app/api?username=syann97)](https://github.com/syann97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syann97)](https://github.com/syann97/github-readme-stats)
 
 ---
 ## Language
@@ -26,6 +27,8 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 ---
