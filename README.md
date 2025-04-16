@@ -1,6 +1,7 @@
 # Seyoung An
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shallom753)](https://solved.ac/shallom753/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=shallom753)
 
 # Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
