@@ -11,7 +11,7 @@
 
 ## 🚀 Projects
 
-### 🛒 AgentCart
+### 🛒 [AgentCart](https://github.com/syann97/AgentCart)
 
 **2026.05 ~ Present**
 
@@ -47,9 +47,9 @@ Planner → Executor → Evaluator 구조의 AI Agent를 활용하여
 
 ---
 
-### 🌼 Flower Detection
+### 🌼 [Flower Detection](https://github.com/syann97/FDY)
 
-**2024.XX ~ 2024.XX**
+**2024.03 ~ 2024.11**
 
 **YOLOv8 기반 꽃 객체 인식 웹 서비스**
 
