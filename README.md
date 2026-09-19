@@ -31,7 +31,7 @@ Planner → Executor → Evaluator 구조의 AI Agent를 활용하여
 
 ### 🏦 [노후도락](https://github.com/jejugom)
 
-**2025.XX ~ 2025.XX**
+**2025.07 ~ 2025.08**
 
 **시니어를 위한 맞춤형 금융 플랫폼**
 
